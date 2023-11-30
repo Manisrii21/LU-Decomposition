@@ -16,7 +16,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 (i) To find the L and U matrix
 ```
-'''Program to find L and U matrix using LU decomposition.
+Program to find L and U matrix using LU decomposition.
 Developed by: Mani Sri Latha.M
 RegisterNumber: 23008627
 '''
@@ -31,7 +31,7 @@ print(U)
 
 (ii) To find the LU Decomposition of a matrix
 ```
-'''Program to solve a matrix using LU decomposition.
+Program to solve a matrix using LU decomposition.
 Developed by: Mani Sri Latha.M
 RegisterNumber: 23008627
 '''
